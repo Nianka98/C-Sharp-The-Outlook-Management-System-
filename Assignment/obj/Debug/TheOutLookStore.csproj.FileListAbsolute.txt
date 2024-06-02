@@ -1,0 +1,33 @@
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.admin.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Manager.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.stock_keeper.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Cashier.resources
+C:\Users\USER\Desktop\GROUP 08 BATCH 92\Assignment -1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.pdb
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\bin\Debug\Assignment.exe.config
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.exe
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.pdb
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\bin\Debug\Assignment.exe
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\bin\Debug\Assignment.pdb
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csproj.AssemblyReference.cache
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csproj.SuggestedBindingRedirects.cache
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.admin.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.Cashier.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.Loading.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.Login.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.Manager.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\Assignment.stock_keeper.resources
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csproj.GenerateResource.cache
+D:\My\JAson\GROUP 08 BATCH 92\Assignment -1\Assignment\obj\Debug\TheOutLookStore.csproj.CoreCompileInputs.cache

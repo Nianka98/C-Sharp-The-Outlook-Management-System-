@@ -1,0 +1,125 @@
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.pdb
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Admin.resources
+E:\ICBT\assigments ( ICBT)\assignmet 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Admin.resources
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\Rashini Ashari\Desktop\assignment 9 (Windows)\WAD\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+I:\PENCIL\Others\92\Assignment\Assignment\bin\Debug\Assignment.exe.config
+I:\PENCIL\Others\92\Assignment\Assignment\bin\Debug\Assignment.exe
+I:\PENCIL\Others\92\Assignment\Assignment\bin\Debug\Assignment.pdb
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.exe
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.pdb
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.Admin.resources
+I:\PENCIL\Others\92\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.Admin.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+C:\Users\USER\Desktop\WINDOS A D\codes\92\92\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.Admin.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+C:\Users\USER\Desktop\WINDOS A D\APPLICATION\92 CREATED BY RATHANA THERO\92\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+C:\Users\USER\Desktop\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.add.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+D:\HND  MATERIALS\C# WAP\WINDOS A D\HND-WAD-92-89\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.add.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.Cordinator.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.Student.resources
+C:\Users\USER\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.pdb
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Loading.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.LOGIN.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\Assignment -1\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.exe
+C:\Users\USER\Desktop\Assignment -1\Assignment\bin\Debug\Assignment.pdb
